@@ -12,11 +12,11 @@ The data in this repository is only hosted for reproducibility purposes, we are 
 
 [ISOT](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/)
 
-1. Ahmed H, Traore I, Saad S. “Detecting opinion spams and fake news using text
+[1] Ahmed H, Traore I, Saad S. “Detecting opinion spams and fake news using text
 classification”, Journal of Security and Privacy, Volume 1, Issue 1, Wiley,
 January/February 2018.
-2. Ahmed H, Traore I, Saad S. (2017) “Detection of Online Fake News Using N-Gram
+
+[2] Ahmed H, Traore I, Saad S. (2017) “Detection of Online Fake News Using N-Gram
 Analysis and Machine Learning Techniques. In: Traore I., Woungang I., Awad A. (eds)
 Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments.
-ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-
-138)
+ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-138)
